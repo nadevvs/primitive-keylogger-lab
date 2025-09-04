@@ -27,7 +27,7 @@ This document describes the setup of a simple cybersecurity lab environment used
 - **Usage:** Scripts development (in this lab keylogger and detector).
 
 ### 2. Windows VM (Target)
-- **OS:** Windows 10 (or 11)
+- **OS:** Windows 10 
 - **vCPUs:** 2
 - **RAM:** 4 GB
 - **Installed Software:**
